@@ -18,10 +18,11 @@ dependencies:
     sdk: flutter
   flutter_web_plugins:
     sdk: flutter
-  webview_flutter_web:
-  webview_flutter_platform_interface:
-  webf:
-  abutil:
+
+  webview_flutter_web: ^0.2.3+4
+  webview_flutter_platform_interface: ^2.10.0
+  webf: ^0.16.3+1
+  abutil: ^0.1.2
 
 dev_dependencies:
   flutter_test:
